@@ -1,15 +1,13 @@
-Hi My name is Andrew, I am passionate about creating solutions through tech to help the world. I'm currentlly learning cloud environments.
+# Hi, I'm Andrew Osei 👋
 
+I'm passionate about creating solutions through tech to help the world. I'm currently learning cloud environments.
 
-Find out more about me & feel free to connect with me here: 
-
-[![Linkedin Badge](https://img.shields.io/badge/-<Andrew%20Osei>-blue?style=flat-square&logo=Linkedin&logoColor=white&link=<https://www.linkedin.com/in/andrew-osei-04b24959/>)](<https://www.linkedin.com/in/andrew-osei-04b24959/L>)
-[![Medium Badge](https://img.shields.io/badge/<Andrew%20Osei>-12100E?style=flat-square&logo=medium&logoColor=white&link=<https://medium.com/@andrewx-ex>)](<https://medium.com/@andrewx-ex>)
-[![Gmail Badge](https://img.shields.io/badge/-<andy@x-ex.co>-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:<andy@x-ex.co>)](mailto:<andy@x-ex.co>)
+Connect with me here:
+[![Linkedin Badge](https://img.shields.io/badge/-Andrew%20Osei-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrew-osei-04b24959/)](https://www.linkedin.com/in/andrew-osei-04b24959/)
+[![Medium Badge](https://img.shields.io/badge/Andrew%20Osei-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@andrewx-ex)](https://medium.com/@andrewx-ex)
+[![Gmail Badge](https://img.shields.io/badge/-andy@x-ex.co-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andy@x-ex.co)](mailto:andy@x-ex.co)
 
 ## ⚡ Technologies
-
-<!-- Check out the Badges folder for more badges -->
 
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
@@ -20,10 +18,9 @@ Find out more about me & feel free to connect with me here:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
-<!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. -->
+## Github Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=<akmenboa963>&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<akmenboa963>&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=akmenboa963&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akmenboa963&hide=TeX&layout=compact)
 
-
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=<akmenboa963>%2F<akmenboa963>&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=<akmenboa963>%2F<akmenboa963>)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=akmenboa963%2Fakmenboa963&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=akmenboa963%2Fakmenboa963)
