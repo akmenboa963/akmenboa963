@@ -1,6 +1,6 @@
 # Hi, I'm Andrew Osei 👋
 
-I'm passionate about creating solutions through tech to provide a positive impact on the world. I'm currently learning cloud environments.
+I'm passionate about creating solutions through tech to provide a positive impact on the world. I'm currently learning cloud environments starting with AWS.
 
 Connect with me here:
 [![Linkedin Badge](https://img.shields.io/badge/-Andrew%20Osei-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrew-osei-04b24959/)](https://www.linkedin.com/in/andrew-osei-04b24959/)
