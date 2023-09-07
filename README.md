@@ -1,14 +1,11 @@
-### Hi there 👋
+Hi My name is Andrew, I am passionate about creating solutions through tech to help the world. I'm currentlly learning cloud environments.
 
-<!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
 
-Find out more about me & feel free to connect with me here:
+Find out more about me & feel free to connect with me here: 
 
-<!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
-
-[![Linkedin Badge](https://img.shields.io/badge/-Andrew%20Osei-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrew-osei-04b24959/)](https://www.linkedin.com/in/andrew-osei-04b24959/)
-[![Medium Badge]([https://img.shields.io/badge/Andrew%20Osei-12100E?style=flat-square&logo=medium&logoColor=white&link=https://www.linkedin.com/newsletters/level-up-in-tech-6746961814677987328/)](https://www.linkedin.com/newsletters/level-up-in-tech-6746961814677987328/](https://medium.com/@andrewx-ex))
-[![Gmail Badge](https://img.shields.io/badge/-andy@x-ex.co-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andy@x-ex.co)](mailto:andy@x-ex.co)
+[![Linkedin Badge](https://img.shields.io/badge/-<Andrew%20Osei>-blue?style=flat-square&logo=Linkedin&logoColor=white&link=<https://www.linkedin.com/in/andrew-osei-04b24959/>)](<https://www.linkedin.com/in/andrew-osei-04b24959/L>)
+[![Medium Badge](https://img.shields.io/badge/<Andrew%20Osei>-12100E?style=flat-square&logo=medium&logoColor=white&link=<https://medium.com/@andrewx-ex>)](<https://medium.com/@andrewx-ex>)
+[![Gmail Badge](https://img.shields.io/badge/-<andy@x-ex.co>-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:<andy@x-ex.co>)](mailto:<andy@x-ex.co>)
 
 ## ⚡ Technologies
 
@@ -25,8 +22,8 @@ Find out more about me & feel free to connect with me here:
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. -->
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=LevelUpInTech&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LevelUpInTech&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=<akmenboa963>&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<akmenboa963>&hide=TeX&layout=compact)
 
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=LevelUpInTech%2FLevelUpInTech&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=LevelUpInTech%2FLevelUpInTech)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=<akmenboa963>%2F<akmenboa963>&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=<akmenboa963>%2F<akmenboa963>)
