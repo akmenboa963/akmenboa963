@@ -8,7 +8,7 @@ Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Andrew%20Osei-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrew-osei-04b24959/)](https://www.linkedin.com/in/andrew-osei-04b24959/)
 [![Medium Badge]([https://img.shields.io/badge/Andrew%20Osei-12100E?style=flat-square&logo=medium&logoColor=white&link=https://www.linkedin.com/newsletters/level-up-in-tech-6746961814677987328/)](https://www.linkedin.com/newsletters/level-up-in-tech-6746961814677987328/](https://medium.com/@andrewx-ex))
-[![Gmail Badge](https://img.shields.io/badge/-Broadus@Levelupintech.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andy@x-ex.co)](mailto:andy@x-ex.co)
+[![Gmail Badge](https://img.shields.io/badge/-andy@x-ex.co-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andy@x-ex.co)](mailto:andy@x-ex.co)
 
 ## ⚡ Technologies
 
