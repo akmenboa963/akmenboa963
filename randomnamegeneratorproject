@@ -1,0 +1,30 @@
+import random
+import string
+
+# Function to generate a random name
+def generate_random_name(department):
+    # Validate department
+    valid_departments = ["Marketing", "Accounting", "FinOps"]
+    if department.capitalize() not in valid_departments:
+        return "Invalid department. Please choose from Marketing, Accounting, or FinOps."
+
+    # Generate a random name
+    random_suffix = ''.join(random.choices(string.ascii_letters + string.digits, k=6))
+    return f"{department.capitalize()}-{random_suffix}"
+
+# Function to generate EC2 names based on user input
+def generate_ec2_names():
+    try:
+        num_instances = int(input("Enter the number of EC2 instances you want names for: "))
+        department = input("Enter your department (Marketing/Accounting/FinOps): ")
+        
+        # Generate and print unique names
+        for i in range(num_instances):
+            ec2_name = generate_random_name(department)
+            print(f"EC2 Name {i+1}: {ec2_name}")
+    
+    except ValueError:
+        print("Invalid input. Please enter a valid number of instances.")
+
+if __name__ == "__main__":
+    generate_ec2_names()
