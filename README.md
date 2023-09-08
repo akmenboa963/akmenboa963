@@ -5,7 +5,7 @@ I'm passionate about creating solutions through tech to provide a positive impac
 Connect with me here:
 [![Linkedin Badge](https://img.shields.io/badge/-Andrew%20Osei-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrew-osei-04b24959/)](https://www.linkedin.com/in/andrew-osei-04b24959/)
 [![Medium Badge](https://img.shields.io/badge/Andrew%20Osei-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@andrewx-ex)](https://medium.com/@andrewx-ex)
-[![Gmail Badge](https://img.shields.io/badge/-andy@x-ex.co-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andy@x-ex.co)](mailto:andy@x-ex.co)
+[![Gmail Badge](https://img.shields.io/badge/-andy%40x--ex.co-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:andy@x-ex.co)
 
 ## ⚡ Technologies
 
